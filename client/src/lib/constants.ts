@@ -14,7 +14,7 @@ export const MOVIE_INFO = {
 export const CAST = [
   {
     name: "Sivakarthikeyan",
-    role: 'Major Mukund Varadarajan',
+    role: "Major Mukund Varadarajan",
     imageUrl: "/sivakarthikeyan.jpeg", // replace with actual image URL
   },
   {
@@ -25,113 +25,132 @@ export const CAST = [
   {
     name: "Rahul Bose",
     role: "Colonel Amit Singh Dabas",
-    imageUrl: "https://blackhattalent.com/wp-content/uploads/2023/03/Rahul-Bose-banner.png", // replace with actual image URL
+    imageUrl: "https://i.postimg.cc/GtMhdSNC/image.png", // replace with actual image URL
   },
   {
     name: "Bhuvan Arora",
     role: "Sepoy Vikram Singh",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBrJbvN9aH4a6jDI9-tQPIp_nDAfVc3n03w&s", // replace with actual image URL
+    imageUrl: "https://i.postimg.cc/Wp92DC9f/image.png", // replace with actual image URL
   },
   {
     name: "Haethakshi V.",
     role: "Arsheya",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bg1wWCLMXesdn3g41Ofvq12WKECrGSOgxg&s", // replace with actual image URL
+    imageUrl: "https://i.postimg.cc/pdxNcJG9/image.png",
   },
   {
     name: "Lallu",
     role: "Sepoy Ravi Shankar",
-    imageUrl: "https://image.tmdb.org/t/p/original/nDIFdj61FCbmgjANzfktXGCGwmh.jpg", // replace with actual image URL
+    imageUrl:
+      "https://image.tmdb.org/t/p/original/nDIFdj61FCbmgjANzfktXGCGwmh.jpg",
   },
   {
     name: "Shreekumar Ganesh",
     role: "Sepoy Michael",
-    imageUrl: "https://wikimylinks.com/wp-content/uploads/2022/12/Shreekumar-Ganesh-Wiki-8.jpg", // replace with actual image URL
+    imageUrl:
+      "https://wikimylinks.com/wp-content/uploads/2022/12/Shreekumar-Ganesh-Wiki-8.jpg",
   },
   {
     name: "Shyamaprasad",
     role: "George Varghese",
-    imageUrl: "https://preview.redd.it/shyamaprasad-and-his-conflict-in-love-movies-v0-ke0dd24xlj6e1.jpg?width=500&format=pjpg&auto=webp&s=dd4a9a0c4d6c29a5ca7e5204c6a02bccd23e4431", // replace with actual image URL
+    imageUrl:
+      "https://preview.redd.it/shyamaprasad-and-his-conflict-in-love-movies-v0-ke0dd24xlj6e1.jpg?width=500&format=pjpg&auto=webp&s=dd4a9a0c4d6c29a5ca7e5204c6a02bccd23e4431",
   },
   {
     name: "Shyam Mohan",
     role: "Deepu",
-    imageUrl: "https://m.media-amazon.com/images/M/MV5BODU5YWYwNDEtZGU2Yy00YmQ4LTk3YTctNjQ2YzdlMTY3MTk3XkEyXkFqcGc@._V1_.jpg", // replace with actual image URL
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm99qPsKuCpw15f6K0pzzCqt6mtPr9dKthXCL00qj4BcTQRUpNX6MnRxGzkirVDm8ayCHomaS5kDWn4B4T4Y0S5T01osrR299T8R5pjN-M9g&s=10",
   },
   {
     name: "Geetha Kailasam",
     role: "Geetha Varadarajan",
-    imageUrl: "https://pbs.twimg.com/profile_images/1854916757162455042/Se17iW_L_400x400.jpg", // replace with actual image URL
+    imageUrl:
+      "https://pbs.twimg.com/profile_images/1854916757162455042/Se17iW_L_400x400.jpg",
   },
   {
     name: "Raju Rajappan",
     role: "Varadarajan",
-    imageUrl: "https://images.filmibeat.com/img/popcorn/profile_photos/nivin-pauly-20230103144211-26267.jpg", // replace with actual image URL
+    imageUrl:
+      "https://images.filmibeat.com/img/popcorn/profile_photos/nivin-pauly-20230103144211-26267.jpg",
   },
   {
     name: "Umair Ibn Lateef",
     role: "Sepoy Waheed Ahamed",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPGg10_p1vUUBzdSF4cro99K3l_61kPJ31A&s", // replace with actual image URL
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPGg10_p1vUUBzdSF4cro99K3l_61kPJ31A&s",
   },
   {
     name: "Mir Salman",
     role: "Sepoy Saifudeen",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_UGKAWvU55q1K1ZSUQLIRA_QeOPvzzs85A&s", // replace with actual image URL
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_UGKAWvU55q1K1ZSUQLIRA_QeOPvzzs85A&s",
   },
   {
     name: "Ajaey Naga Raaman",
     role: "Sepoy Rajesh Shukla",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKShtGm-djZzIDT_E9hxDpVv8gQDwFZ-7IQ&s", // replace with actual image URL
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKShtGm-djZzIDT_E9hxDpVv8gQDwFZ-7IQ&s",
   },
   {
     name: "Gaurav Venkatesh",
     role: "Sepoy Venkanna",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtOoubMs8_0I5TnvTm3JwN3_PLQJnPyptsXA&s", // replace with actual image URL
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtOoubMs8_0I5TnvTm3JwN3_PLQJnPyptsXA&s",
   },
   {
     name: "Abhinav Raj",
     role: "Major Srinath",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTL-CZiIdsISN8Q7hf3vQstLFWkVsbmIGtTA&s", // replace with actual image URL
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTL-CZiIdsISN8Q7hf3vQstLFWkVsbmIGtTA&s",
   },
   {
     name: "John Kaipallil",
-    role: 'Major Mithun Mohan',
-    imageUrl: "https://m.media-amazon.com/images/M/MV5BODAxMDQzZTUtZWIxOS00NzY3LWIzMGEtNzUyZjgxNmZlODA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", // replace with actual image URL
+    role: "Major Mithun Mohan",
+    imageUrl:
+      "https://m.media-amazon.com/images/M/MV5BODAxMDQzZTUtZWIxOS00NzY3LWIzMGEtNzUyZjgxNmZlODA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
   },
   {
     name: "Paul T. Baby",
     role: "Andrews",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjKkR5r8wI0lQv55F7q0rm7ablqqTMsN9uA&s", // replace with actual image URL
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjKkR5r8wI0lQv55F7q0rm7ablqqTMsN9uA&s",
   },
   {
     name: "Sugamya Sankar",
     role: "Nithya",
-    imageUrl: "https://castyou-website.sgp1.digitaloceanspaces.com/2024/02/Sugamya-Shankar22288.jpg", // replace with actual image URL
+    imageUrl:
+      "https://castyou-website.sgp1.digitaloceanspaces.com/2024/02/Sugamya-Shankar22288.jpg",
   },
   {
     name: "Navya Sujji",
     role: "Swetha",
-    imageUrl: "https://img-cdn.thepublive.com/filters:format(webp)/tamil-ie/media/media_files/uploads/2021/09/navya-suji.png", // replace with actual image URL
+    imageUrl:
+      "https://img-cdn.thepublive.com/filters:format(webp)/tamil-ie/media/media_files/uploads/2021/09/navya-suji.png",
   },
   {
     name: "Rohan Surya Kanuma Reddy",
     role: "Sepoy Narasimha Rao",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXgL5UrP1jHku9iYTihRlbe_7mgQh4aKMgUQ&s", // replace with actual image URL
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXgL5UrP1jHku9iYTihRlbe_7mgQh4aKMgUQ&s",
   },
   {
     name: "Shyrush Zutshi",
     role: "Altaf Baba",
-    imageUrl: "https://starsunfolded.com/wp-content/uploads/2024/10/Ajaey-Naga-Raaman.jpg", // replace with actual image URL
+    imageUrl:
+      "https://starsunfolded.com/wp-content/uploads/2024/10/Ajaey-Naga-Raaman.jpg",
   },
   {
     name: "Rohman Shawl",
     role: "Asif Wani",
-    imageUrl: "https://im.indiatimes.in/content/2020/Oct/Rohman-Shawl-Images_5f89896967963.jpg?w=1200&h=900&cc=1&webp=1&q=75", // replace with actual image URL
+    imageUrl:
+      "https://images.hindustantimes.com/img/2022/09/07/1600x900/Rohman_Shawl_interview_1662512987649_1662513216320_1662513216320.jpg",
   },
   {
     name: "Vikas Bangar",
     role: "Sepoy Jyoti Sharma",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3YIhw8O7Dpme3acm3EQch7VXsSRJL-b0aA&s", // replace with actual image URL
-  }
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3YIhw8O7Dpme3acm3EQch7VXsSRJL-b0aA&s",
+  },
 ];
 
 // Gallery Images
@@ -140,73 +159,73 @@ export const GALLERY_IMAGES = [
     id: 1,
     url: "/main-scene.jpg",
     alt: "Amaran Main Scene",
-    caption: "The vastness of space as depicted in Amaran"
+    caption: "Major Mukund Varadarajan leading the 44 Rashtriya Rifles unit"
   },
   {
     id: 2,
     url: "/second-scene.jpg",
-    alt: "Character in futuristic environment",
-    caption: "Eira navigating an alien structure"
+    alt: "Sivakarthikeyan and Sai Pallavi scene",
+    caption: "Heartwarming moment between Mukund and Indhu"
   },
   {
     id: 3,
     url: "/first-look.jpg",
-    alt: "Spaceship approaching planet",
-    caption: "The Horizon approaching Ämaran"
+    alt: "Amaran Official First Look Poster",
+    caption: "Official poster showcasing Major Mukund Varadarajan"
   },
   {
     id: 4,
     url: "/third-scene.jpg",
-    alt: "Ancient artifact from the movie",
-    caption: "The mysterious artifact that leads to Ämaran"
+    alt: "Army tactical operation in Kashmir",
+    caption: "Tactical military operation in the valleys of Kashmir"
   },
   {
     id: 5,
     url: "/fourth-scene.jpg",
-    alt: "Characters in action scene",
-    caption: "Eira and Kade face danger together"
+    alt: "Intense battle counter-terrorist action",
+    caption: "Intense tactical combat action during QRF mission"
   },
   {
     id: 6,
     url: "/fifth-scene.jpg",
-    alt: "Alien landscape from Amaran",
-    caption: "The breathtaking landscape of Amaran"
+    alt: "Major Mukund and fellow soldiers",
+    caption: "Comradeship and camaraderie of the Officers & Sepoys"
   },
   {
     id: 7,
-    url: "https://preview.redd.it/amaran-2024-exclusive-stills-v0-86nnnd4s20zd1.jpg?width=1080&crop=smart&auto=webp&s=cf9ab346c42724d093bda1e497cd30cf19b3c73b",
-    alt: "Starship control room",
-    caption: "Inside the Horizon's advanced bridge"
+    url: "/main-scene.jpg",
+    alt: "Major Mukund in Action",
+    caption: "Major Mukund Varadarajan during intense briefing"
   },
   {
     id: 8,
-    url: "https://indiaglitz-media.s3.amazonaws.com/tamil/home/amaran-review31102024m1.jpg",
-    alt: "Nebula near Ämaran",
-    caption: "The Celestial Veil nebula that hides Ämaran from sensors"
+    url: "/second-scene.jpg",
+    alt: "Emotional Family Sequence",
+    caption: "Emotional moment highlighting family sacrifice"
   },
   {
     id: 9,
-    url: "https://indiaglitz-media.s3.amazonaws.com/tamil/home/amaran-review31102024m6.jpg",
-    alt: "Ancient technology interface",
-    caption: "Eira interacts with Ämaran's mysterious technology"
+    url: "/third-scene.jpg",
+    alt: "Rashtriya Rifles Base Camp",
+    caption: "Inside the 44 Rashtriya Rifles command post"
   },
   {
     id: 10,
-    url: "https://indiaglitz-media.s3.amazonaws.com/tamil/home/amaran-review31102024m3.jpg",
-    alt: "Holographic star map",
-    caption: "The ancient star map revealing Ämaran's location"
+    url: "/fourth-scene.jpg",
+    alt: "Counter-Terrorism Strike",
+    caption: "Heroic counter-insurgency operation executed with precision"
   },
   {
     id: 11,
-    url: "https://indiaglitz-media.s3.amazonaws.com/tamil/home/amaran-review31102024m2.jpg",
-    alt: "Alien writing",
-    caption: "The mysterious symbols that Nova helps translate"
+    url: "/fifth-scene.jpg",
+    alt: "Salute to the Martyr",
+    caption: "Honoring the braveheart Major Mukund Varadarajan AC"
   },
   {
     id: 12,
-    url: "https://live.staticflickr.com/65535/53548547366_990303c0af.jpg",
-    alt: "Concept art for Tavar",
-    caption: "Early design concepts for the Ancient Guardian"
+    url: "/first-look.jpg",
+    alt: "Amaran Heroic Poster",
+    caption: "The heroic journey of an immortal soldier"
   }
 ];
 
@@ -297,7 +316,7 @@ export const BEHIND_THE_SCENES = {
     quoteAuthor: "Rajkumar Periasamy, Director",
     additionalText:
       "Filming spanned diverse locations, including Kashmir, Chennai, and Pondicherry, to authentically depict the journey of Major Mukund. The production team faced challenging terrains and weather conditions to ensure realism.",
-    imageUrl: "https://via.placeholder.com/800x450/cccccc/808080?Text=Director+and+Cast+on+Set",
+    imageUrl: "/main-scene.jpg",
     imageAlt: "Director Rajkumar Periasamy with cast on set",
   },
   aspects: [
@@ -305,43 +324,43 @@ export const BEHIND_THE_SCENES = {
       title: "Costume Design",
       description:
         "The costume department meticulously recreated military uniforms and civilian attire from the early 2010s, ensuring authenticity in every scene.",
-      imageUrl: "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/48438/article_aligned%402x.jpg",
-      imageAlt: "Costume fittings for Amaran",
+      imageUrl: "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&w=800&q=80",
+      imageAlt: "Costume design and wardrobe department",
     },
     {
       title: "Visual Effects",
       description:
         "The VFX team enhanced battle sequences and recreated realistic environments to immerse viewers in Major Mukund's experiences.",
-      imageUrl: "https://p.productioncrate.com/stock-hd/archives/vfx/FIRE_AND_SPARKS_V2.jpg",
-      imageAlt: "VFX team working on battle scenes",
+      imageUrl: "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=800&q=80",
+      imageAlt: "Visual effects and video editing suite",
     },
     {
       title: "Sound Design",
       description:
-        "Renowned sound designer Fiona Chen crafted a soundscape that authentically represents the intensity of combat and the serenity of personal moments.",
-      imageUrl: "https://assets.videomaker.com/2018/08/best-apps-to-remove-audio-from-video-on-iphonecropped.jpg",
-      imageAlt: "Sound design team at work",
+        "Renowned sound designers crafted a soundscape that authentically represents the intensity of combat and the serenity of personal moments.",
+      imageUrl: "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=800&q=80",
+      imageAlt: "Audio mixing console and sound studio",
     },
     {
       title: "Set Construction",
       description:
         "Sets were constructed to replicate military bases and local residences, providing a realistic backdrop for the narrative of the movie.",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Carnegie_Mellon_School_of_Drama_set_workshop.jpg/640px-Carnegie_Mellon_School_of_Drama_set_workshop.jpg",
-      imageAlt: "Set construction for military base scenes",
+      imageUrl: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=800&q=80",
+      imageAlt: "Movie set construction workshop",
     },
     {
       title: "Property Design",
       description:
         "Props, including military equipment and personal artifacts, were carefully selected and designed to reflect the era and enhance storytelling.",
-      imageUrl: "https://macksennettstudios.net/wp-content/uploads/2021/09/Movie-props-can-include-prosthetics-scenery-or-additional-objects-found-on-set-1024x683.jpg",
-      imageAlt: "Prop collection for Amaran",
+      imageUrl: "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+      imageAlt: "Filmmaking equipment and tactical props",
     },
     {
       title: "Stunt Coordination",
       description:
         "Stunt coordinators choreographed realistic combat sequences, ensuring safety while maintaining authenticity in action scenes.",
-      imageUrl: "https://s.studiobinder.com/wp-content/uploads/2023/06/What-is-a-Stunt-Coordinator-in-Film-Stunt-Coordinator-Wade-Eastwood-on-set-Stunt-coordinator-job-description.png",
-      imageAlt: "Stunt rehearsal on set",
+      imageUrl: "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=800&q=80",
+      imageAlt: "Film production set and action scene camera setup",
     },
   ],
 };

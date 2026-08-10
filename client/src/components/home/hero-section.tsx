@@ -20,9 +20,9 @@ const HeroSection = () => {
 
   return (
     <section 
-      className="h-screen flex items-center bg-cover bg-center relative overflow-hidden"
+      className="min-h-screen flex items-center bg-cover bg-center bg-no-repeat relative overflow-hidden"
       style={{
-        backgroundImage: `linear-gradient(to bottom, rgba(15, 23, 70, 0.3), rgba(10, 15, 35, 0.97)), url('https://assets-in.bmscdn.com/discovery-catalog/events/et00388085-reywyxjhxn-landscape.jpg')`
+        backgroundImage: `linear-gradient(to bottom, rgba(15, 23, 42, 0.45) 0%, rgba(15, 23, 42, 0.65) 50%, rgba(10, 15, 30, 0.92) 100%), url('/first-look.jpg')`
       }}
     >
       {/* Animated stars */}
